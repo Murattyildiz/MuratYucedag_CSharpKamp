@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\obj\Debug\MuratYucedag_CSharp_Ders2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\obj\Debug\MuratYucedag_CSharp_Ders2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\bin\Debug\MuratYucedag_CSharp_Ders2.exe.config
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\bin\Debug\MuratYucedag_CSharp_Ders2.exe
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\bin\Debug\MuratYucedag_CSharp_Ders2.pdb
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\obj\Debug\MuratYucedag_CSharp_Ders2.exe
+C:\Users\hp\source\repos\MuratYucedag_CSharp_Ders2\MuratYucedag_CSharp_Ders2\obj\Debug\MuratYucedag_CSharp_Ders2.pdb
